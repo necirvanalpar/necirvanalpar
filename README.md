@@ -1,6 +1,7 @@
-<div align="center">
-  <img height="200" width="961" src="https://raw.githubusercontent.com/necirvanalpar/necirvanalpar/refs/heads/main/123123.png"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/necirvanalpar/necirvanalpar/refs/heads/main/123123.png" width="90%" />
+</p>
+
 
 ###
 
