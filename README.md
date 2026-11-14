@@ -1,17 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/necirvanalpar/necirvanalpar/refs/heads/main/123123.png" width="90%" />
 </p>
-
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="stackoverflow logo"  />
-</div>
-
-###
-
 <h1 align="center"></h1>
 
 ###
